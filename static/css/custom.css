@@ -1,0 +1,169 @@
+/* GENERAL */
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+main {
+    flex: 1;
+}
+
+p {
+    font-style: normal;
+}
+
+p, div.service-icon p {
+    font-size: 18px;
+}
+
+.style-2 .help-block h2.cta {
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+a {
+    color: #767676;
+}
+
+a:hover {
+    color: inherit;
+}
+
+section.help-block a {
+    color: #fff;
+}
+
+section.error-page {
+    height: 567px;
+}
+
+/* TESTIMONIALS */
+
+section.testimonial-section div.title,
+section.testimonial-section div.testimonial-box h4 {
+    margin-bottom: 1.75em;
+}
+
+section.testimonial-section,
+section.testimonial-section div.testimonial-box span {
+    margin-bottom: 0;
+}
+
+section.testimonial-section h3.sm-title {
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
+}
+
+section.testimonial-section h4 {
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.25em;
+}
+
+section.testimonial-section h3.testimonial-title {
+    color: #fff;
+    text-transform: capitalize;
+    font-family: 'Alegreya', sans-serif;
+    font-size: 1.75em;
+}
+
+section.testimonial-section div.testimonial-box h4 {
+    font-size: 1.5em;
+}
+
+/* IMAGES */
+
+img {
+    width: 100%;
+}
+
+div.contact-info span {
+    color: #fff;
+    font-weight: 600;
+    margin-right: 6px;
+}
+
+div.contact-info a.telephone {
+    margin-right: 1.25em;
+}
+
+/* ABOUT */
+
+h2.no-margin {
+    margin: 0;
+}
+
+/* SERVICES */
+
+div.services-content p,
+div.contact-content p {
+    margin-bottom: 30px;
+}
+
+img.service-img {
+    max-width: 273px;
+    width: 100%;
+}
+
+section.service-section div.sec-title + p {
+    margin-bottom: 30px;
+}
+
+/* BLOG */
+
+section.blog-section .blog-box .blog-post h2 a {
+    color: #2E375F;
+}
+
+section.blog-section div.white-left {
+    padding-bottom: 2.25em;
+}
+
+section.blog-section ul.pagination-list li {
+    color: #666666;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+}
+
+li.active {
+    background-color: #cacaca;
+}
+
+/* CONTACT */
+
+div.contact-page-info {
+    margin-top: 2.15em;
+}
+
+section.contact-section {
+    padding: 80px 0 70px;
+}
+
+/* FOOTER */
+
+footer div.up-footer {
+    padding: 70px 0 0 0;
+}
+
+footer a {
+    color: #c1c1c5;
+}
+
+footer p {
+    font-size: 17px;
+}
+
+footer ul li {
+    color: #c1c1c5;
+    text-transform: capitalize;
+    line-height: 30px;
+}

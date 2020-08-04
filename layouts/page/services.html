@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+<!-- page-banner-section 
+================================================== -->
+<section class="page-banner-section">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>{{ .Title }}</h2>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End page-banner section --> 
+
+<!-- services section 
+================================================== -->
+<section class="service-section">
+  <div class="container">
+    <div class="services-content">
+      <div class="sec-title style-2 mb-20">
+        <h2 class="">Our  <span> Services</span> </h2>
+      </div>
+      {{ .Content }}
+    </div>
+    <div class="row">
+      <div class="mb-0 service-icon col-md-3">
+        {{ with .Params.computer_training_image }}
+        <img class="img-full service-img" src="{{ . }}" alt="{{ with $.Page.Params.title }}{{ . }}{{ end }}">
+        {{ end }}
+        <h3>Computer Training</h3>
+        <p>WCRTS has a knowledgeable instructor which will provide you affordable computer training mentorship, one to one, so you will get the assistance you need.</p>
+      </div>
+      <div class="mb-0 service-icon col-md-3">
+        {{ with .Params.computer_repair_image }}
+        <img class="img-full service-img" src="{{ . }}" alt="{{ with $.Page.Params.title }}{{ . }}{{ end }}">
+        {{ end }}
+        <h3>Computer Repair</h3>
+        <p>Stuck trying to figure out what’s wrong with your computer? WCRTS can diagnose and fix your computer at an affordable price, relieving your hardware worries.</p>
+      </div>
+       <div class="mb-0 service-icon col-md-3">
+        {{ with .Params.web_design_image }}
+        <img class="img-full service-img" src="{{ . }}" alt="{{ with $.Page.Params.title }}{{ . }}{{ end }}">
+        {{ end }} 
+        <h3>Web Design Service</h3>
+        <p>Need a simple web presence to showcase your business online? WCRTS provides web design services that will assist your business to be found on the web.</p>
+      </div>
+      <div class="mb-0 service-icon col-md-3">
+        {{ with .Params.tech_service_image }}
+        <img class="img-full service-img" src="{{ . }}" alt="{{ with $.Page.Params.title }}{{ . }}{{ end }}">
+        {{ end }}
+        <h3>In Home Tech Services</h3>
+        <p>Sales and support provides you the ability to either buy or sell new and used laptops or desktop computers. You can buy or sell all types of electronic devices.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Contact Us
+================================================== -->
+{{- partial "call-to-action/cta.html" . -}}
+
+{{ end }}
