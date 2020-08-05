@@ -43,6 +43,23 @@ section.error-page {
     height: 567px;
 }
 
+/* HOME */
+
+section.page-banner-section {
+    margin-top: 0;
+}
+
+ul.navbar-nav {
+    background: #fff;
+    color: #2E375F;
+}
+
+ul.social-icons {
+    display: none;
+    overflow: hidden;
+    visibility: none;
+}
+
 /* TESTIMONIALS */
 
 section.testimonial-section div.title,
@@ -166,4 +183,34 @@ footer ul li {
     color: #c1c1c5;
     text-transform: capitalize;
     line-height: 30px;
+}
+
+.navbar-nav > li a,
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a.active,
+.style-5 .navbar-nav > li > a,
+header.active .navbar-nav > li > a:hover,
+header.active .navbar-nav > li > a.active {
+    color: #2E375F;
+}
+
+
+@media (max-width: 767px) {
+    .navbar-nav > li a,
+    .navbar-nav > li > a:hover,
+    .navbar-nav > li > a.active,
+    .style-5 .navbar-nav > li > a,
+    header.active .navbar-nav > li > a:hover,
+    header.active .navbar-nav > li > a.active {
+        padding: 0.65em;
+    }
+}
+
+@media (min-width: 768px) {
+
+    ul.social-icons {
+        display: inline;
+        overflow: hidden;
+        visibility: visible;
+    }
 }

@@ -5723,7 +5723,7 @@ footer .copyright p{
     background-color: transparent;
 }
 .navbar-nav > li > a:hover, .navbar-nav > li > a.active, .style-5 .navbar-nav > li > a, header.active .navbar-nav > li > a:hover, header.active .navbar-nav > li > a.active {
-    color: #fff !important;
+    color: #fff;
 }
   #home-section .tp-caption.finewide_medium_white {
     color: #2E375F;
@@ -5767,7 +5767,7 @@ footer .copyright p{
     margin-top: 13px;
   }
   .navbar-nav > li > a {
-    padding: 5px 15px !important;
+    padding: 5px 15px;
   }
   .navbar-nav > li.search {
     display: none;
