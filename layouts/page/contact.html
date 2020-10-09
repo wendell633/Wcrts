@@ -22,27 +22,26 @@
         <h2 class="">Get a  <span> Quote</span> </h2>
       </div>
       {{ .Content }}
-      <form id="contact-form">
-        <div class="row">
-          <div class="col-md-6">
-            <input name="name" id="name" type="text" placeholder="Name">
+      <form id="contact-form" action="https://formspree.io/f/mvovzrdq" method="post">
+          <div class="row">
+            <div class="col-md-6">
+              <input name="name" id="name" type="text" placeholder="Name" required="required">
+            </div>
+            <div class="col-md-6">
+              <input name="mail" id="email" type="text" placeholder="Email" required="required">
+            </div>
           </div>
-          <div class="col-md-6">
-            <input name="mail" id="mail" type="text" placeholder="Email">
-          </div>
-        </div>
-        <textarea name="comment" id="comment" placeholder="Message"></textarea>
-        <input type="submit" id="submit_contact" value="Send Message">
-        <div id="msg" class="message"></div>
-      </form>
+          <textarea name="message" id="message" placeholder="Message" required="required"></textarea>
+          <input type="submit" value="Send Message">
+        </form>
     </div>
     <div class="col-md-4">
       <div class="contact-info contact-page-info">
         <h2>Contact Info</h2>
         <p>You can contact or visit us from: <br> Monday to Friday: 10:00am to 8pm</p>
         <ul class="information-list">
-          <li><i class="fa fa-map-marker"></i><span>Ottawa, Ontario, Canada</span></li>
-          <li><i class="fa fa-phone"></i><span>(613) 700-5468</span></li>
+          <li><i class="fa fa-map-marker"></i><span class="address">Ottawa, Ontario, Canada</span></li>
+          <li><i class="fa fa-phone"></i><a class="phone" href="tel:613-700-5468"><span class="phone">(613) 700-5468</span></a></li>
           <li><i class="fa fa-envelope-o"></i><a href="#">wendell_louis@live.ca</a></li>
         </ul>
       </div>

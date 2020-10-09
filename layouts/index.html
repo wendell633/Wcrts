@@ -125,13 +125,19 @@
       </div><!-- .cta-2 end -->
 
       <div class="form">
-          <form novalidate="novalidate" id="quote-form" action="assets/php/sendquote.php" method="post">
-      <div class="col-md-12"><input aria-required="true" class="form-control" name="quote-name" id="name" placeholder="First Name" required="" type="text"> </div>
-      <div class="col-md-12"><input aria-required="true" class="form-control" name="quote-email" id="email" placeholder="Email" required="" type="email"></div>
-      <div class="col-md-12">
-      <textarea class="form-control" name="quote-message" id="quote" placeholder="Message" rows="2" required=""></textarea> </div>
-      <div class="col-md-12"><button type="submit" class="btn btn-primary btn-black btn-block">Submit Inquiry</button></div> <!--Alert Message-->
-              <div id="quote-result" class="mt-xs"></div>
+          <form id="quote-form" action="https://formspree.io/f/mvovzrdq" method="post">
+          <div class="col-md-12">
+            <input class="form-control" name="name" id="name" type="text" placeholder="Name" required="required">
+          </div>
+          <div class="col-md-12">
+            <input class="form-control" name="mail" id="email" type="text" placeholder="Email" required="required">
+          </div>
+          <div class="col-md-12">
+            <textarea class="form-control" name="message" id="message" placeholder="Message" rows="2" required="required"></textarea>
+          </div>
+          <div class="col-md-12">
+            <button type="submit" class="btn btn-primary btn-black btn-block">Submit Inquiry</button>
+          </div>
           </form>
       </div>
     </div>
@@ -168,7 +174,8 @@
   </div>
 </div>
 </section> -->
-<!-- End testimonial section --> 
+<!-- End testimonial section -->
+<!--
 <section class="news-section news-section-home">
 <div class="container">
     <div class="sec-title style-2 mb-20">
@@ -204,7 +211,7 @@
     </div>
   </div>
 </div>
-</section>
+</section>-->
 
 <!-- End container -->
 <!-- Get in Touch 

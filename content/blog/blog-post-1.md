@@ -1,16 +1,13 @@
 ---
-title: Blog Post 1
+title: "Blog Post 1"
 date: 2020-05-09T18:11:16.000+00:00
-categories:
-- business
-- hardware
-tags:
-- business
-- hardware
+draft: false
+categories: ["business", "hardware"]
+tags: ["business", "hardware"]
 featured_image: "/upload/blog-post.jpg"
-
 ---
-Test 1   
+
+I think that I shall never see  
 A poem lovely as a tree.
 
 A tree whose hungry mouth is prest  
