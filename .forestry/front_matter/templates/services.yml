@@ -1,0 +1,30 @@
+---
+label: Services
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: type
+  label: type
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: computer_training_image
+  label: computer_training_image
+- type: file
+  name: computer_repair_image
+  label: computer_repair_image
+- type: file
+  name: web_design_image
+  label: web_design_image
+- type: file
+  name: tech_service_image
+  label: tech_service_image
+pages:
+- content/services.md
