@@ -1,0 +1,31 @@
+<!--{{ if .Site.Params.taxonomies.categories }}
+{{ if isset .Site.Taxonomies "categories" }}
+{{ if not (eq (len .Site.Taxonomies.categories) 0) }}
+<div class="category-widget widget">
+    <h2>Categories</h2>
+    <ul class="category-list">
+        {{ range $name, $items := .Site.Taxonomies.categories }}
+        <li>
+            {{ $url := printf "%s/%s" "categories" ($name | urlize | lower)}}
+            <a href="{{ $url | absURL }}">
+                {{ $name }}
+            </a>
+            <span>{{ len $items }}</span>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+{{ end }}
+{{ end }}-->
+
+{{ if .Params.categories }}
+<div class="category-widget widget">
+  <h2>Categories</h2>
+  <ul class="category-list">
+    {{ range .Params.categories }}
+    <li><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
