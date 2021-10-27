@@ -3,7 +3,7 @@ title: About
 date: 2020-05-08T00:37:06.000+00:00
 type: page
 layout: about
-featured_image: "/upload/computer-hardware.jpg"
+featured_image: "/upload/img.jpg"
 featured_image_2: "/upload/ottawa-canada.jpg"
 
 ---
