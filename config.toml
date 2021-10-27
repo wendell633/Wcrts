@@ -1,4 +1,4 @@
 baseURL = "https://computer-repair.netlify.app"
 languageCode = "en-us"
-title = "WCRTS"
 paginate = 3
+title = "WCRTS"
