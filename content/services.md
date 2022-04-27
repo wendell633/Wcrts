@@ -6,8 +6,7 @@ layout: Services
 computer_training_image: "/upload/microsoft-office-computer-coaching-classes-500x500.jpg"
 computer_repair_image: "/upload/computer-repair.jpg"
 web_design_image: "/upload/what-is-web-design.jpg"
-tech_service_image: "/upload/aid274238-v4-728px-repair-a-computer-step-11.jpg"
+tech_service_image: "/upload/in-home-tech-services.jpg"
 
 ---
-
-######  
+######
