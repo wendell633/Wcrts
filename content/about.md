@@ -13,4 +13,4 @@ Wendell’s Computer repair training  short for (WCRTS) and web services in the 
 
 ### **Wendell’s** **Computer** **Repair** **Training** **&** **Web Services**
 
-We offer all types of computer solutions both for Apple and Microsoft based operating systems. Our services include the following: virus removal, hard drive upgrades, or replacement. In addition  computer training, we give one-on one tutoring for those who want to learn. Our students range from beginners to middle to advanced users. My other service are where I provide basic web designs of any sort of web services such as basic logo designs and photo editing etc.
+We offer all types of computer solutions both for Apple and Microsoft based operating systems. Our services include the following: virus removal, hard drive upgrades, or replacement. In addition  computer training, we give one-on one tutoring for those who want to learn. Our students range from beginners to middle to advanced users. My final service which  I provide basic web designs of any types of web services such, as basic logo designs and photo editing etc.
