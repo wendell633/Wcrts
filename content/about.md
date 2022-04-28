@@ -9,7 +9,7 @@ featured_image_2: "/upload/ottawa-canada.jpg"
 ---
 ## **Why WCRTS?**
 
-Wendell’s Computer repair training  short for (WCRTS) and web services in the Ottawa area.
+Wendell’s Computer repair training  short for (WCRTS)services in the Ottawa area.
 
 ### **Wendell’s** **Computer** **Repair** **Training** **&** **Web Services**
 
