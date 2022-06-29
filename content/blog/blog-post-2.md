@@ -1,26 +1,13 @@
 ---
-title: "Blog Post 2"
-date: 2020-05-10T11:48:47-04:00
-draft: false
-categories: ["business", "hardware"]
-tags: ["business", "hardware"]
+title: Blog Post 2
+date: 2020-05-10T11:48:47.000-04:00
+categories:
+- business
+- hardware
+tags:
+- business
+- hardware
 featured_image: "/upload/blog-post.jpg"
+
 ---
-
-I think that I shall never see  
-A poem lovely as a tree.
-
-A tree whose hungry mouth is prest  
-Against the earth’s sweet flowing breast;
-
-A tree that looks at God all day,  
-And lifts her leafy arms to pray;
-
-A tree that may in Summer wear  
-A nest of robins in her hair;
-
-Upon whose bosom snow has lain;  
-Who intimately lives with rain.
-
-Poems are made by fools like me,  
-But only God can make a tree.
+Blog Post 2 
