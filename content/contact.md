@@ -5,7 +5,6 @@ type: page
 layout: contact
 
 ---
- Contact us today to discuss any of your hardware related issues or if you need to have your computer fixed. 
+Contact us today to discuss any of your hardware related issues or if you need to have your computer fixed.
 
-You can fill out this form, or send an e-mail directly at: \[wendell_louis@live.ca\]
-(https://app.forestry.io/sites/kphdl1bhisk-sa/#/frontmatter/)
+You can fill out this form, or send an e-mail directly at: wendell_louis@live.ca
