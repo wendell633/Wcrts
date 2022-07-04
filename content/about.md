@@ -4,7 +4,7 @@ date: 2020-05-08T00:37:06.000+00:00
 type: page
 layout: about
 featured_image: "/upload/hard-drive.webp"
-featured_image_2: "/upload/ottawa-canada.jpg"
+featured_image_2: "/upload/computer-training.jpg"
 
 ---
 ## **Why WCRTS?**
