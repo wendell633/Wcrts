@@ -2,7 +2,7 @@
 title: Reply  Back
 date: 2020-05-08T01:33:28.000+00:00
 type: page
-layout: contact
+layout: 'Contact '
 
 ---
 Contact us today to discuss any of your hardware related issues or if you need to have your computer fixed.
