@@ -7,6 +7,6 @@ layout: 'Contact '
 ---
 Contact us today to discuss any of your hardware related issues or if you need to have your computer fixed.
 
-You can fill out this form, or send an e-mail directly 
+You can fill out this form, or send an e-mail directly
 
 at: wendell_louis@live.ca
