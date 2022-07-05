@@ -1,6 +1,6 @@
 ---
 title: 'IT Services '
-date: 2020-05-08T01:33:16.000+00:00
+date: 2020-05-08T01:33:16+00:00
 type: page
 layout: Services
 computer_training_image: "/upload/what-is-web-design.jpg"
