@@ -8,4 +8,4 @@ title = "About us "
 type = ""
 
 +++
-About us 
+About us page 
