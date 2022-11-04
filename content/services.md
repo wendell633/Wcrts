@@ -10,3 +10,11 @@ tech_service_image: "/upload/images-2.jpg"
 
 ---
 The different services in which I offer 
+
+Computer Repair 
+
+Computer Training 
+
+Web Design 
+
+Sales Support and Service 
