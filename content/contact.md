@@ -11,6 +11,6 @@ We will have your solution fixed
 
 You can fill out this form, or send an e-mail directly
 
-E-mail: 
+E-mail:
 
-wendell_louis@live.ca 
+wendell_louis@live.ca
