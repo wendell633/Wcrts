@@ -5,10 +5,12 @@ type: page
 layout: 'Contact '
 
 ---
-Contact us today to discuss any of your  IT related issues 
+Contact us today to discuss any of your  IT related issues
 
-We will have your solution fixed 
+We will have your solution fixed
 
 You can fill out this form, or send an e-mail directly
 
-At: wendell_louis@live.ca
+E-mail: 
+
+wendell_louis@live.ca 
