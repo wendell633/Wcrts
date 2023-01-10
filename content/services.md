@@ -1,6 +1,6 @@
 ---
 title: 'Services '
-date: 2022-07-28T04:00:00+00:00
+date: 2022-07-28T04:00:00.000+00:00
 type: page
 layout: 'Contact '
 computer_training_image: "/upload/what-is-web-design.jpg"
@@ -9,12 +9,12 @@ web_design_image: "/upload/it-services-list.png"
 tech_service_image: "/upload/images-2.jpg"
 
 ---
-The different services in which I offer 
+The 4 services in which I offer
 
-Computer Repair 
+Computer Repair
 
-Computer Training 
+Computer Training
 
-Web Design 
+Web Design
 
-Sales Support and Service 
+Sales Support and Service
