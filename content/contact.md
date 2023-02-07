@@ -5,12 +5,11 @@ type: page
 layout: 'Contact '
 
 ---
-Contact us today
 
 WCRTS will have your solution fixed
 
-You can fill out this form, or send an e-mail directly
-
 E-mail:
 
-wendell_louis@live.ca
+wendell_louis@live.ca  
+
+Or contact me 
