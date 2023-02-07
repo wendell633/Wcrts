@@ -3,8 +3,8 @@ title: Concerning  us
 date: 2022-07-29T00:37:06.000+00:00
 type: page
 layout: services
-featured_image: "/upload/in-home-tech-services.jpg"
-featured_image_2: "/upload/computer-training.jpg"
+featured_image: "/upload/aid274238-v4-728px-repair-a-computer-step-11.jpg"
+featured_image_2: "/upload/what-is-web-design.jpg"
 
 ---
 ### **(WCRTS) Wendell's Computer** **Repair** **Training** **Services**
