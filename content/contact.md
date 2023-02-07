@@ -7,7 +7,7 @@ layout: 'Contact '
 ---
 Contact us today
 
-We will have your solution fixed
+WCRTS will have your solution fixed
 
 You can fill out this form, or send an e-mail directly
 
