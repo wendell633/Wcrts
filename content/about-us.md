@@ -1,6 +1,5 @@
 +++
 date = 2022-07-28T04:00:00Z
-draft = true
 featured_image = ""
 featured_image_2 = ""
 layout = ""
