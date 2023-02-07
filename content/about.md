@@ -9,6 +9,6 @@ featured_image_2: "/upload/computer-training.jpg"
 ---
 ### **(WCRTS) Wendell's Computer** **Repair** **Training** **Services**
 
-We offer all types of IT solutions such has Apple and Microsoft based operating systems. Our services include the following: Virus removal, hard drive upgrades, or replacement. Other services, computer training, we give one-on one tutoring for those who want to learn. Our students range from beginners to middle to advanced users. I also provide web designs of all types of web services such, as basic logo designs and photo editing etc.
+ Sit back, relax, and let all WCRTS  will resolve all your IT solutions both Apple and Microsoft based operating systems. Our services include the following: Virus removal, hard drive upgrades, or replacement. Other services, computer training, we give one-on one tutoring for those who want to learn. Our students range from beginners to middle to advanced users. I also provide web designs of all types of web services such, as basic logo designs and photo editing etc.
 
 ## 
