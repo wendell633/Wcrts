@@ -9,12 +9,15 @@ web_design_image: "/upload/it-services-list.png"
 tech_service_image: "/upload/images-2.jpg"
 
 ---
-The 4 services in which I offer
+ 5 services  WCRTS provides 
 
-Computer Repair
+* Computer Repair
 
-Computer Training
 
-Web Design
+* Computer Training
 
-Sales Support and Service
+
+* Web Design
+
+
+* Sales Support and Service
