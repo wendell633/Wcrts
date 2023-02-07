@@ -5,7 +5,7 @@ type: page
 layout: 'Contact '
 
 ---
-Contact us today to discuss any of your  IT related issues
+Contact us today
 
 We will have your solution fixed
 
