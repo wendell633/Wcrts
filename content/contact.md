@@ -1,5 +1,5 @@
 ---
-title: 'Inquiry '
+title: 'Inquires '
 date: 2022-07-29T01:33:28.000+00:00
 type: page
 layout: 'Contact '
