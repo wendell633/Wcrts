@@ -1,6 +1,13 @@
 ---
 label: Contact us
 hide_body: true
-fields: []
+fields:
+- name: contact_us_
+  type: blocks
+  label: 'Contact us '
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - content/Contact us.md
