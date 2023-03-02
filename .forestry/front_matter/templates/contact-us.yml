@@ -5,7 +5,8 @@ fields:
 - name: contact_us_
   type: blocks
   label: 'Contact us '
-  template_types: []
+  template_types:
+  - contact-us
   config:
     min: 
     max: 
