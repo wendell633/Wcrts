@@ -2,3 +2,5 @@
 label: Contact us
 hide_body: true
 fields: []
+pages:
+- content/Contact us.md
