@@ -20,5 +20,3 @@ fields:
 - type: file
   name: featured_image_2
   label: featured_image_2
-pages:
-- content/about-us.md
