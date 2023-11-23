@@ -8,5 +8,5 @@ fields:
   template_types:
   - contact-us
   config:
-    min: 
+    min: 0
     max: 
